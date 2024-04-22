@@ -1,2 +1,1 @@
-# -evre-kirlili-i-botu
-komutlar
+cevre kirliligi botu
